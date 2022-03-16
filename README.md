@@ -5,6 +5,12 @@ Pytorch codes of 'Looking Outside the Window: Wider Context Transformer for the 
 BLU dataset [[download link]](https://rslab.disi.unitn.it/dataset/BLU/)
 ![alt text](https://github.com/ggsDing/WiCoNet/blob/main/data_BLU.png)
 
+**To be updated:**
+- [x] Training codes to the BLU dataset
+- [ ] Training codes to the GID
+- [ ] Training codes to the Potsdam dataset
+- [ ] Optimizing the codes to easily switch datasets
+
 **How to Use**
 1. Split the data into training, validation and test set and organize them as follows:
 
