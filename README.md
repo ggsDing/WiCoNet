@@ -21,4 +21,4 @@ BLU dataset [[download link]](https://rslab.disi.unitn.it/dataset/BLU/)
 
 2. Change the training parameters in *Train_WiCo_BLU.py*, especially the data directory.
 
-3. To evaluate, change also the parameters in *Eval_WiCo_BLU.py*, especially the data directory and the checkpoing path.
+3. To evaluate, change also the parameters in *Eval_WiCo_BLU.py*, especially the data directory and the checkpoint path.
