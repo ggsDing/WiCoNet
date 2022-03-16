@@ -72,7 +72,6 @@ def read_RSimages(data_dir, mode, rescale_ratio=False):
         labels.append(label)
         count+=1
         if not count%10: print('%d/%d images loaded.'%(count, data_length))
-        if count>5: break
     print(data[0].shape)
     print(str(len(data)) + ' ' + mode + ' images' + ' loaded.')
     return data, labels
