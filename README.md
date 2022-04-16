@@ -3,7 +3,7 @@ Pytorch codes of 'Looking Outside the Window: Wider Context Transformer for the 
 
 **BLU dataset** [[download link]](https://rslab.disi.unitn.it/dataset/BLU/)
 
-![alt text](https://github.com/ggsDing/WiCoNet/blob/main/flow_chart.png)
+![alt text](https://github.com/ggsDing/WiCoNet/blob/main/WiCoNet.png)
 ![alt text](https://github.com/ggsDing/WiCoNet/blob/main/data_BLU.png)
 
 **To be updated:**
