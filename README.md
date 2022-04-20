@@ -29,3 +29,6 @@ Pytorch codes of 'Looking Outside the Window: Wider Context Transformer for the 
 2. Change the training parameters in *Train_WiCo_BLU.py*, especially the data directory.
 
 3. To evaluate, change also the parameters in *Eval_WiCo_BLU.py*, especially the data directory and the checkpoint path.
+
+If you find our work useful or interesting, please consider to cite:
+> L. Ding et al., "Looking Outside the Window: Wide-Context Transformer for the Semantic Segmentation of High-Resolution Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2022.3168697.
