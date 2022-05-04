@@ -8,7 +8,7 @@ Pytorch codes of 'Looking Outside the Window: Wider Context Transformer for the 
 
 **To be updated:**
 - [x] Training codes to the BLU dataset
-- [ ] Training codes to the GID
+- [x] Training codes to the GID
 - [ ] Training codes to the Potsdam dataset
 - [ ] Optimizing the codes to easily switch datasets
 
