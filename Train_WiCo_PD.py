@@ -40,6 +40,8 @@ args = {
     'load_path': os.path.join(working_path, 'checkpoints', DATA_NAME, 'saved_model.pth')
 }
 
+if not os.path.exists(args['chkpt_dir']): os.makedirs(args['chkpt_dir'])
+if not os.path.exists(args['pred_dir']): os.makedirs(args['pred_dir'])
 if not os.path.exists(args['log_dir']): os.makedirs(args['log_dir'])
 writer = SummaryWriter(args['log_dir'])
 
