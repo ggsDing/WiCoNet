@@ -1,7 +1,7 @@
 # WiCoNet
 Pytorch codes of 'Looking Outside the Window: Wider Context Transformer for the Semantic Segmentation of High-Resolution Remote Sensing Images' [[paper]](https://doi.org/10.1109/TGRS.2022.3168697)
 
-**BLU dataset** [[download link]](https://rslab.disi.unitn.it/dataset/BLU/)
+**BLU dataset** [[download link]](https://rslab.disi.unitn.it/dataset/BLU/) [[Baidu Netdisk]](https://pan.baidu.com/s/117F0c5eR56Y97cQDIXD1Sg?pwd=uf7c)
 
 ![alt text](https://github.com/ggsDing/WiCoNet/blob/main/WiCoNet.png)
 ![alt text](https://github.com/ggsDing/WiCoNet/blob/main/data_BLU.png)
